@@ -430,7 +430,7 @@ The implementation can also work optionally with blockchains and tokens from oth
 **Mentors:** Reinaldo Neto, Daniel Silva, Diego Mello\
 \
 **Description:**\
-[Off the Record Messaging](https://docs.rocket.chat/use-rocket.chat/user-guides/rooms/messaging/off-the-record-otr-messaging-guide) is a very popular and well loved feature of Rocket.Chat desktop and web client. It enable two parties to securely exchange encrypted message while both side are online, and not have the encrypted conversation be persisted in the chat history. However our mobile app currently does not support this. This project will add OTR support to our mobile apps.
+[Off the Record Messaging](https://docs.rocket.chat/use-rocket.chat/user-guides/messages/off-the-record-otr-messaging-user-guide) is a very popular and well loved feature of Rocket.Chat desktop and web client. It enable two parties to securely exchange encrypted message while both side are online, and not have the encrypted conversation be persisted in the chat history. However our mobile app currently does not support this. This project will add OTR support to our mobile apps.
 
 **Desired Skills:** Advanced ReactNative. Knowledge of native Android and iOS app development.\
 \
